@@ -2,6 +2,7 @@ import unittest
 import calculate
 import math
 
+
 class TestCalculate(unittest.TestCase):
     def test_circle_perimeter_valid(self):
         result = calculate.calc("circle", "perimeter", 5)
@@ -30,6 +31,7 @@ class TestCalculate(unittest.TestCase):
     def test_invalid_size_count(self):
         result = calculate.calc("circle", "perimeter", 5, 10)
         self.assertEqual(result["error"], "Неверное количество аргументов")
+
 
 if __name__ == '__main__':
     unittest.main()
