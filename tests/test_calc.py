@@ -22,11 +22,11 @@ class TestCalculate(unittest.TestCase):
 
     def test_invalid_figure_type(self):
         result = calculate.calc("triangle", "perimeter", 3, 4, 5)
-        self.assertEqual(result["error"], "Неверный тип фигуры или имя функции")
+        self.assertEqual(result["error"], "Неверный тип фигуры или имя")
 
     def test_invalid_function_name(self):
         result = calculate.calc("circle", "volume", 5)
-        self.assertEqual(result["error"], "Неверный тип фигуры или имя функции")
+        self.assertEqual(result["error"], "Неверный тип фигуры или имя")
 
     def test_invalid_size_count(self):
         result = calculate.calc("circle", "perimeter", 5, 10)
