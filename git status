@@ -1,0 +1,65 @@
+[33mcommit a05f723286820db879b65550bc5548e36ed180fc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32missue_correction[m[33m, [m[1;31mupstream/issue_correction[m[33m)[m
+Author: Artemii Safonov <artemii.e.safonov@gmail.com>
+Date:   Fri Oct 4 13:33:17 2024 +0300
+
+    добавил изменения в файл README
+
+[33mcommit 351bc225b412d8e4b996fd9115ae415467e96641[m
+Author: Artemii Safonov <artemii.e.safonov@gmail.com>
+Date:   Thu Oct 3 14:14:34 2024 +0300
+
+    Добавлена документация в файл triangle
+
+[33mcommit a5ac406c191d41b0bd89e9862322546d43102801[m
+Author: Artemii Safonov <artemii.e.safonov@gmail.com>
+Date:   Thu Oct 3 14:12:26 2024 +0300
+
+    Добавлена документация в файл square
+
+[33mcommit dd3916a291892f73331029732fa6fc7064ef82ab[m
+Author: Artemii Safonov <artemii.e.safonov@gmail.com>
+Date:   Thu Oct 3 14:10:37 2024 +0300
+
+    Добавленио документирование в файл circle
+
+[33mcommit 5e22e6bdadade726ac67a62cf7eccb5cbdc569d6[m
+Author: Artemii Safonov <artemii.e.safonov@gmail.com>
+Date:   Thu Oct 3 14:09:16 2024 +0300
+
+    добавлено документирование в файл calculate
+
+[33mcommit b5b0fae727ca72c317c383b39c0af73d6adcd81c[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mtests[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Daniil.K <dlkay@yandex.ru>
+Date:   Tue Mar 30 18:02:23 2021 +0300
+
+    L-04: Update docs for calculate.py
+
+[33mcommit d76db2ac7f69cc920ae2e6f669fb0671a7fa7d71[m
+Author: Daniil.K <dlkay@yandex.ru>
+Date:   Tue Mar 30 17:57:42 2021 +0300
+
+    L-04: Add calculate.py
+
+[33mcommit 51c40ebfd0e0b65f52fe5e54740cbb038e492db3[m
+Author: smartiqa <info@smartiqa.ru>
+Date:   Fri Mar 26 14:52:26 2021 +0300
+
+    L-04: Doc updated for triangle
+
+[33mcommit d080c7888b81955bad2ed78d58ad910526b5132a[m
+Author: smartiqa <info@smartiqa.ru>
+Date:   Fri Mar 26 14:48:39 2021 +0300
+
+    L-04: Triangle added
+
+[33mcommit d078c8d9ee6155f3cb0e577d28d337b791de28e2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: smartiqa <info@smartiqa.ru>
+Date:   Thu Mar 4 14:55:29 2021 +0300
+
+    L-03: Docs added
+
+[33mcommit 8ba9aeb3cea847b63a91ac378a2a6db758682460[m
+Author: smartiqa <info@smartiqa.ru>
+Date:   Thu Mar 4 14:54:08 2021 +0300
+
+    L-03: Circle and square added
