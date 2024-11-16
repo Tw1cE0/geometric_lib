@@ -26,4 +26,4 @@ def calc(figure_type, function_name, *args):
                 return {"area": square.area(*args)}
             else:
                 return {"error": "Неверное количество аргументов"}
-    return {"error": "Неверный тип фигуры или имя функции"}
+    return {"error": "Неверный тип фигуры или имя"}
