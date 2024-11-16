@@ -1,6 +1,6 @@
 import circle
 import square
-import math
+
 
 def calc(figure_type, function_name, *args):
     """Вычисляет периметр или площадь фигуры."""
